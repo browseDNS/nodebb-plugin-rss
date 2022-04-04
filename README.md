@@ -1,5 +1,7 @@
 # NodeBB RSS Parser
 
+In this fork, content is also placed into the post. Mileage may vary depending on the RSS feed.
+
 This NodeBB plugin pulls RSS feeds and creates topics in predefined categories.
 
 To customize options for the parser, please consult the "RSS" page in the administration panel, under the "Plugins" heading.
